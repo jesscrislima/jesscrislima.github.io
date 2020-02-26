@@ -55,6 +55,10 @@ body {
     margin-bottom: 32px;
 }
 
+.foto-perfil {
+    width: 100%;
+}
+
 .descricao {
     font-family: Poppins;
     font-style: normal;
@@ -106,7 +110,7 @@ body {
 }
 
 .image {
-    width: 340px;
+    width: 100%;
     margin-right: 32px;
 }
 
